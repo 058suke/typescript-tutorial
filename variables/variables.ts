@@ -1,6 +1,6 @@
 // これはエラーが起きる。
 const a: Number = 1;
-const b: String = a;
+// const b: String = a;
 
 // これはOK
 const c: Number = 1;
